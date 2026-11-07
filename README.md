@@ -1,8 +1,8 @@
 # Moses's Profile
-- 👋 Hi, I’m @karanimoshe
-- 👀 I’m interested in ASP.NET Web Forms/MVC, Entity Framework and Python Machine Learning
-- 🌱 I’m currently learning moodle plugin development
-- 💞️ I’m looking to collaborate on moodle plugin development or educational projects
+- 👋 Hi, I’m Moses Karani
+- 👀 I’m an .NET and Microsoft Dynamics NAV Developer, SQL Server and Windows Server Admin
+- 🌱 I’m currently leveling up on Cyber Security and AI
+- 💞️ I’m looking to collaborate in .NET Development and Local AI deployment solutions
 - 📫 I can be reached at karanimoshe@gmail.com
 
 <!---
